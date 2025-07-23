@@ -1,0 +1,229 @@
+body{/*body*/
+    width: 100%;
+    background:white;
+    margin: 0px;
+}
+.header{/*header*/
+    width: 100%;
+    display: inline-block;
+    border-bottom: 2px solid white;
+    background: rgb(0, 210, 198); 
+    margin: 0;
+}
+.lefthead{/*lefthead*/
+    width: 30%;
+    height: auto;
+    background:rgb(0, 210, 198);
+    display:inline-block;
+}
+#logo{/*#log0*/
+    width: 90px;
+    height: auto;
+    padding-left: 25px;
+    padding-top: 12px;
+    padding-bottom: 10px;
+}
+.righthead{/*righthead*/
+    width:70%;
+    background:rgb(0, 210, 198);
+    float: right;
+}
+ul{/*ul*/
+    list-style-type: none;
+    overflow: hidden;
+    float: left;
+    font-size: 20px;
+    color: white;
+    word-spacing: 10px;
+    margin-left: 400px;
+    margin-top: 35px;
+    margin-bottom: 47px;
+    margin-right: 30px;
+     font: 400 20px / 1.2 "Nobel", Helvetica, Arial, sans-serif;
+}
+li{
+    float: left;
+    text-align: center;
+    margin-left:20px ; 
+}
+.image{/*first image*/
+    padding-left: 30px;
+    padding-top: 30px;
+    margin: 0;
+}
+#social-image1{
+    padding-top: 10px;
+    width: 30px;
+}
+#social-image2{
+    padding-top: 10px;
+    width: 30px;
+}
+#social-image3{
+    padding-top: 10px;
+    width: 30px;
+}
+#social-image4{
+    padding-top: 10px;
+    width: 30px;
+}
+#social-image5{
+    padding-top: 10px;
+    width: 30px;
+}
+#social-image6{
+    padding-top: 10px;
+    width: 30px;
+}
+.banner-card{
+    position: relative;
+  
+}
+.banner-card img{
+    max-width :100%;
+    height: auto;
+       
+    
+      
+}
+.banner-text{
+    position:absolute;
+    top: 0;
+    color: white;
+    font-size: 33px;
+    font-family: 'Panton Rust';
+    padding-left: 80px;
+    padding-top: 50px;
+    top: 175px;
+    line-height: 70px;
+}
+#button1{/*first button*/
+    
+    display: inline-block;
+    width: 175px;
+    height: 40px;
+    font-size: 0.9rem;
+    font-family: 'Panton Rust';
+    border-radius: 20px;
+    border:3px solid white;
+    color: white;
+    background-color: rgb(247, 179, 8,.2);
+}
+.main-banner{/*main banner*/
+    position: relative;
+    margin: 0;
+}
+.main-banner img{/*main banner image*/
+    max-width :100%;
+    height: auto;
+    margin: 0;
+}
+
+.main-bannertext {/*main banner text*/
+    width: 800px;
+    position: absolute;
+    color: white;
+   
+    font-family: 'Panton Rust';
+    padding-left: 450px;
+    padding-top: 60px;
+    top: 175px;
+   
+    line-height: 10px;
+    text-align: center;
+
+    font-size: 26px;
+}
+#button2{/*second button*/
+    
+    display: inline-block;
+    width: 175px;
+    text-align: center;
+
+    height: 40px;
+    font-size: 0.9rem;
+    font-family: 'Panton Rust';
+    border-radius: 20px;
+    border:3px solid white;
+    color: white;
+    background-color: rgb(247, 179, 8,.1);
+}
+.border1{
+    width: 650px;
+    height: 200px;
+    background: transparent;
+    border: 2px solid white;
+    background-color: rgba(10, 91, 43, 0.8);
+    border-radius: 100px;
+}
+.second-main-banner{/* second main banner*/
+    position: relative;
+}
+.second-main-image3{
+    max-width :100%;
+    height: auto;
+    float: left;
+    
+}
+
+.second-bannertext {
+    width: 800px;
+    position: absolute;
+    color: white;
+    font-family: 'Panton Rust';
+    padding-left: 450px;
+    padding-top: 60px;
+    top: 175px;
+    line-height: 10px;
+    text-align: center;
+    font-size: 26px;
+}
+#button3{/*third button*/
+    display: inline-block;
+    width: 175px;
+    text-align: center;
+    height: 40px;
+        font-size: 0.9rem;
+    font-family: 'Panton Rust';
+     border-radius: 20px;
+     border:3px solid white;
+     color: white;
+     background-color: rgb(247, 179, 8,.1);
+}
+.border2{
+    width: 650px;
+    height: 200px;
+    background: transparent;
+    border: 2px solid white;
+    background-color: rgba(10, 91, 43, 0.8);
+    border-radius: 100px;
+}
+.footer-main{/*footer main*/
+    width: 100%;
+    height:175px;
+    background: gray;
+    display: inline-block;
+}
+#footerclass{/*footer class*/
+    margin-left:-80px;
+}
+#footer{/*footer*/
+    word-spacing: 10px;
+    margin-inline: 90px;
+    float: left;
+    text-align: center;
+    margin-left: 23px;
+    font-size: 15px;
+    margin-left: 60px;
+    margin-inline: 250px;
+}
+#lastline{/*code last line*/
+    word-spacing: 0px;
+    margin-inline: 150px;
+    line-height: 80px;
+}
+/*end of the code*/
+/*end of the code*/
+/*end of the code*/
+/*end of the code*/
+/*end of the code*/
